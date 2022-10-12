@@ -2,6 +2,8 @@
 
 Outer Wildsera euskaraz jokatzea oso erraza da! PC-ko bertsioan soilik funtzionatzen du itzulpenak, hori bai. Pauso hauek jarraitu zure jokoa gure hizkuntzara lokalizatzeko:
 
+**Oharra! Laugarren pausoan Gaztelera aukeratu, aurkitzen ez dudan akatsen bat dut eta Frantsesaren gainean ez da ezartzen.**
+
 1. Jaitsi itzulpen instalatzailea (Outer Wilds euskaraz.exe).
 2. Outer Wilds instalatu.
 3. Instalatzailea zabaldu eta bertan agertzen diren pausoak jarraitu. Instalazioaren kokalekua eskatzen dizunean, OuterWilds_Data karpea hautatu!
