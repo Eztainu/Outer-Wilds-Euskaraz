@@ -35,8 +35,8 @@ WizardStyle=modern
 Name: "basque"; MessagesFile: ".\Basque.isl"
 
 [Files]
-Source: "..\..\Programak\uabe\*"; DestDir: "{app}\uabe"
-Source: "..\esp\OuterWilds_Euskaraz_v15_esp_2.emip"; DestDir: "{app}"
+Source: "..\..\Softwarea\UABEA\*"; DestDir: "{app}\uabe"
+Source: "..\esp\OuterWilds_Euskaraz_esp.emip"; DestDir: "{app}"
 Source: "..\fr\OuterWilds_Euskaraz_fr.emip"; DestDir: "{app}"
 
 [Run]
@@ -231,7 +231,7 @@ end;
 function GetSelectedEmip(Param: string): string;
 begin
   if LanguageComboBox.ItemIndex = 0 then
-    Result := 'OuterWilds_Euskaraz_v15_esp_2.emip'
+    Result := 'OuterWilds_Euskaraz_esp.emip'
   else
     Result := 'OuterWilds_Euskaraz_fr.emip';
 end;
