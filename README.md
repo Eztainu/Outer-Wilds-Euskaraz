@@ -1,4 +1,5 @@
-#** ADI!! ITZULPEN SISTEMA ZAHARKITUA!!! KLIKATU [HEMEN](https://github.com/Eztainu/OW_Euskaraz_Mod/blob/main/README.md) BESTE SISTEMAREN PAUSUAK IKUSTEKO. Itzulpena instalatzeko modu berria sortu da. Aldaketa hau eguneraketak errazago mantendu ahal izateko sortu da.  
+#** ADI!! ITZULPEN SISTEMA ZAHARKITUA!!! KLIKATU [HEMEN](https://github.com/Eztainu/OW_Euskaraz_Mod/blob/main/README.md) BESTE SISTEMAREN PAUSUAK IKUSTEKO.** 
+##Itzulpena instalatzeko modu berria sortu da. Aldaketa hau eguneraketak errazago mantendu ahal izateko sortu da.  
 
 # Euskarazko itzulpena instalatzeko pausoak
 
