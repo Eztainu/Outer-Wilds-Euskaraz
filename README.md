@@ -1,3 +1,5 @@
+#** ADI!! ITZULPEN SISTEMA ZAHARKITUA!!! KLIKATU [HEMEN](https://github.com/Eztainu/OW_Euskaraz_Mod/blob/main/README.md) BESTE SISTEMAREN PAUSUAK IKUSTEKO. Itzulpena instalatzeko modu berria sortu da. Aldaketa hau eguneraketak errazago mantendu ahal izateko sortu da.  
+
 # Euskarazko itzulpena instalatzeko pausoak
 
 Outer Wildsera euskaraz jokatzea oso erraza da! PC-ko bertsioan soilik funtzionatzen du itzulpenak, hori bai. Pauso hauek jarraitu zure jokoa gure hizkuntzara lokalizatzeko:

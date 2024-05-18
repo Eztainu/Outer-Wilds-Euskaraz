@@ -6745,7 +6745,7 @@
   </entry>
   <entry>
     <key>GoodStuffAn iron stomach is the mark of a true Hearthian, my friend.</key>
-    <value>Altzairuzko urdaila da Bihotztarrak nabarmentzen dituena, kamarada.</value>
+    <value>Altzairuzko urdaila da Sutondotarrak nabarmentzen dituena, kamarada.</value>
   </entry>
   <entry>
     <key>GoodStuffOur hardy hunter-gatherer lifestyle stems from trial and error. By which I mean our ancestors survived eating a lot of bad things.</key>
@@ -6857,7 +6857,7 @@
   </entry>
   <entry>
     <key>RiebecksJournalWe Hearthians have borrowed their technology in our ships, where gravity crystals keep astronauts anchored to just one flat plane (thank the stars!).</key>
-    <value>Bihotztarrok euren teknologia erabiltzen dugu gure espazio-ontzietarako, non grabitate-kristalek astronautak plano lau batean ainguratuta mantentzen dituzten (izarrei esker!).</value>
+    <value>Sutondotarrok euren teknologia erabiltzen dugu gure espazio-ontzietarako, non grabitate-kristalek astronautak plano lau batean ainguratuta mantentzen dituzten (izarrei esker!).</value>
   </entry>
   <entry>
     <key>Riebeck_SouthPoleRecordingI’m here! I did it! I put the ship down safely!</key>
@@ -7647,7 +7647,7 @@
   </entry>
   <entry>
     <key>SignFeldspar was the first Hearthian to be intentionally launched into space. They completed the first orbit around Timber Hearth and later made the first of what would be many landings on our moon, the Attlerock.</key>
-    <value>Feldespato izan zen kanpoaldea nahita bisitatu zuen lehen pertsona Bihotztarra. Sutondo inguruan osatu zuen lehen orbita, eta, ondoren, lurreratze askotariko lehena egin zuen gure Ilargian: Lurhaitz.</value>
+    <value>Feldespato izan zen kanpoaldea nahita bisitatu zuen lehen pertsona Sutondotarra. Sutondo inguruan osatu zuen lehen orbita, eta, ondoren, lurreratze askotariko lehena egin zuen gure Ilargian: Lurhaitz.</value>
   </entry>
   <entry>
     <key>SignOuter Wilds Ventures was founded by Feldspar, Gossan, Slate, and Hornfels to explore a solar system at the end of the universe.</key>
@@ -7819,7 +7819,7 @@
   </entry>
   <entry>
     <key>SignThe Nomai never got to see it for themselves, but thanks to their efforts and technology, a Hearthian was able to reach the Eye of the universe.</key>
-    <value>Nomaiek ezin izan zuten inoiz aurrez aurre ikusi, baina beren ahaleginei eta teknologiari esker, Bihotztarrak gai izan ziren Unibertsoaren Begira iristeko.</value>
+    <value>Nomaiek ezin izan zuten inoiz aurrez aurre ikusi, baina beren ahaleginei eta teknologiari esker, Sutondotarrak gai izan ziren Unibertsoaren Begira iristeko.</value>
   </entry>
   <entry>
     <key>SignThe strange rock moving around in this grotto appears to react to conscious observation.</key>
@@ -8127,7 +8127,7 @@
   </entry>
   <entry>
     <key>SignThe Nomai body was most likely adapted for living exclusively on land. The differences in the Nomai’s anatomy, such as their shockingly fragile bone structure, show us that Hearthians couldn’t have descended from Nomaian ancestors.</key>
-    <value>Ziur aski, Nomaien gorputza lurrean bakarrik bizitzeko egokituta zegoen. Desberdintasun anatomikoek, hezur-egitura nabarmen hauskor batek bezala, argi uzten dute Bihotztarrak ez garela arbaso Nomaien ondorengoak.</value>
+    <value>Ziur aski, Nomaien gorputza lurrean bakarrik bizitzeko egokituta zegoen. Desberdintasun anatomikoek, hezur-egitura nabarmen hauskor batek bezala, argi uzten dute Sutondotarrak ez garela arbaso Nomaien ondorengoak.</value>
   </entry>
   <entry>
     <key>SignIt’s not clear where the Nomai originated from, or why they disappeared. We hope to find more clues to this puzzle as we explore our solar system.</key>
@@ -9007,7 +9007,7 @@
   </entry>
   <entry>
     <key>FoundSomething3How fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</key>
-    <value>Liluragarria! Agian beste planeta baten existentzia guztiz onargarria dela jakin nahi duzu; gure eguzki-sistemaren fisikari erreparatzen badiozu konturatuko zara. Baina, segur aski, oso urruti egongo zen, espazio-ontzi Bihotztarrak iritsiko ez ziren leku batean.</value>
+    <value>Liluragarria! Agian beste planeta baten existentzia guztiz onargarria dela jakin nahi duzu; gure eguzki-sistemaren fisikari erreparatzen badiozu konturatuko zara. Baina, segur aski, oso urruti egongo zen, espazio-ontzi Sutondotarrak iritsiko ez ziren leku batean.</value>
   </entry>
   <entry>
     <key>FoundSomething3And honestly, we don’t know all that much about what’s out there. The farther you go, the less we know! As such, it’s well within the realm of possibility such a planet exists.</key>
@@ -9194,7 +9194,7 @@
   </entry>
   <entry>
     <key>FoundSomething3bHow fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</key>
-    <value>Liluragarria! Agian beste planeta baten existentzia guztiz onargarria dela jakin nahi duzu; gure eguzki-sistemaren fisikari erreparatzen badiozu konturatuko zara. Baina, segur aski, oso urruti egongo zen, espazio-ontzi Bihotztarrak iritsiko ez ziren leku batean.</value>
+    <value>Liluragarria! Agian beste planeta baten existentzia guztiz onargarria dela jakin nahi duzu; gure eguzki-sistemaren fisikari erreparatzen badiozu konturatuko zara. Baina, segur aski, oso urruti egongo zen, espazio-ontzi Sutondotarrak iritsiko ez ziren leku batean.</value>
   </entry>
   <entry>
     <key>FoundSomething3bAnd honestly, we don’t know all that much about what’s all out there. The farther you go, the less we know! As such, it’s well within the realm of possibility such a planet exists.</key>
@@ -9254,7 +9254,7 @@
   </entry>
   <entry>
     <key>ChertIntroWe’re next, do you understand?! Our sun! By Hearth’s name, &lt;i&gt;we’re next&lt;/i&gt;!</key>
-    <value>Guk jarraituko dugu! Ulertzen?! Geure Eguzkia! Bihotztar guztiengatik, &lt;i&gt;geu gara urrengoak&lt;/i&gt;!</value>
+    <value>Guk jarraituko dugu! Ulertzen?! Geure Eguzkia! Sutondotar guztiengatik, &lt;i&gt;geu gara urrengoak&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>ChertSecondaryPlease, just... Leave me alone, won’t you?</key>
@@ -9506,11 +9506,11 @@
   </entry>
   <entry>
     <key>LonelyA little. I’m in touch with ground control – Hornfels and Gossan, mostly – and they radio up to chat now and then.</key>
-    <value>Bai, pixka bat. Kontaktuan nago kontrol Bihotztarrarekin (Corné eta Gossan, beste ezer baino gehiago), eta batzuetan irratitik hitz egiten dugu.</value>
+    <value>Bai, pixka bat. Kontaktuan nago kontrol Sutondotarrarekin (Corné eta Gossan, beste ezer baino gehiago), eta batzuetan irratitik hitz egiten dugu.</value>
   </entry>
   <entry>
     <key>LonelyAnd when ground control forgets I’m up here&lt;size=20&gt; and they usually do&lt;/size&gt;, I launch my Little Scout at the village.</key>
-    <value>Eta, kontrol Bihotztarra hemen nagoela ahazten denean &lt;size=20&gt; (askotan gertatzen dena)&lt;/size&gt;, nire Miniesploratzailea hartu eta herrixkara bidaltzen dut.</value>
+    <value>Eta, kontrol Sutondotarra hemen nagoela ahazten denean &lt;size=20&gt; (askotan gertatzen dena)&lt;/size&gt;, nire Miniesploratzailea hartu eta herrixkara bidaltzen dut.</value>
   </entry>
   <entry>
     <key>EskerLonelyThey forget about you?</key>
@@ -9861,7 +9861,7 @@
   </entry>
   <entry>
     <key>YouTooHuhAnd another thing - we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
-    <value>Eta beste gauza bat... Hiltzen bagara, zergatik jarraitzen dugu bizirik? Hori nahiko anormala da Bihotztarrentzat.</value>
+    <value>Eta beste gauza bat... Hiltzen bagara, zergatik jarraitzen dugu bizirik? Hori nahiko anormala da Sutondotarrentzat.</value>
   </entry>
   <entry>
     <key>YouTooHuhWell, that’s what’s new with me. But hey, this is your first solo voyage! Let’s talk about you, you know?</key>
@@ -9965,7 +9965,7 @@
   </entry>
   <entry>
     <key>Gabbro2T_4So... we died, but we aren’t dead? That’s pretty unusual for Hearthians.</key>
-    <value>Eta beste gauza bat... Hiltzen bagara, zergatik jarraitzen dugu bizirik? Hori nahiko anormala da Bihotztarrentzat.</value>
+    <value>Eta beste gauza bat... Hiltzen bagara, zergatik jarraitzen dugu bizirik? Hori nahiko anormala da Sutondotarrentzat.</value>
   </entry>
   <entry>
     <key>Gabbro2T_4I am going to need to do some serious thinking before I come up with any theories. Maybe I’ll have figured something out by the next time you come by.</key>
@@ -11508,7 +11508,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The StrangerA massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin.</key>
-      <value>Eraztun planeta artifizial handi bat, kamuflaje-zelai batean ezkutatua. Ez dirudi jatorri Bihotztar edo Nomairik duenik.</value>
+      <value>Eraztun planeta artifizial handi bat, kamuflaje-zelai batean ezkutatua. Ez dirudi jatorri Sutondotar edo Nomairik duenik.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>River Lowlands</key>
@@ -12456,7 +12456,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum MoonChert’s research notes mention a Quantum Moon that no Hearthian has been able to land on.</key>
-      <value>Cherten ikerketa-oharretan, ilargi kuantiko bat aipatzen da, Bihotztarrek inoiz lurreratu ezin izan dutena.</value>
+      <value>Cherten ikerketa-oharretan, ilargi kuantiko bat aipatzen da, Sutondotarrek inoiz lurreratu ezin izan dutena.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum MoonI was able to land on the surface of the Quantum Moon.</key>
